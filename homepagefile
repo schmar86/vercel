@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Margaux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 40px;
+        }
+        .container {
+            max-width: 700px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #008000;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello, I'm Margaux</h1>
+        <p><strong>Location:</strong> United Kingdom</p>
+        <p><strong>Originally from:</strong> The Netherlands</p>
+        <p><strong>Last name:</strong> Schreurs (I don't expect you to be able to pronounce it, unless you're also Dutch!)</p>        
+        <h2>What I Love</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Writing</li>
+            <li>Languages</li>
+            <li>History</li>
+			<li>Traveling</li>
+			<li>Learning new things</li>
+			<li>Dogs</li>
+        </ul>
+
+		<h2>Work Experience</h2>
+        <ul>
+            <li>Customer Success Management (3.5 years)</li>
+            <li>Account Management (2 years)</li>
+           <li>Paid Social Media / Influencer Marketing Management (2 years)</li>
+            <li>Editorial (4+ years)</li>
+        </ul>
+
+        <h2>Languages</h2>
+        <p><strong>Speaks:</strong> English, Dutch, Mandarin</p>
+        <p><strong>Currently learning:</strong> Italian</p>
+      
+              <h2>Countries I've lived in</h2>
+        <ul>
+            <li>the Netherlands</li>
+            <li>Singapore</li>
+            <li>United Kingdom</li>
+            <li>China</li>
+        </ul>
+
+        <p>Thanks for coming to my website!</p>
+    </div>
+</body>
+</html>
